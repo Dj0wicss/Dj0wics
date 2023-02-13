@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Egor
 dasha1
+=======
+egor
+egor2
+>>>>>>> egor2
 
