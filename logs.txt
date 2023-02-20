@@ -1,0 +1,29 @@
+commit 70dc29b2fa30c02ee1cada8af11a644a314e6f50
+Author: Dj0wics <arseniimalinin@gmail.com>
+Date:   Mon Feb 13 10:37:22 2023 +0900
+
+    добавить файл logs.txt
+
+commit af429b190623ff19cd20422453f5c6ed1937fbb8
+Author: Dj0wics <arseniimalinin@gmail.com>
+Date:   Mon Feb 13 10:13:42 2023 +0900
+
+    написать своё имя и имя ветки
+
+commit b5f14d72b9227fb386ef925ed607532317f2328f
+Author: Dj0wics <arseniimalinin@gmail.com>
+Date:   Mon Feb 13 09:08:41 2023 +0900
+
+    создать test2.txt test3.txt
+
+commit 54e4cc8eadb92e755642d32eaba3bc6094f1e04e
+Author: Dj0wics <arseniimalinin@gmail.com>
+Date:   Mon Feb 13 09:05:28 2023 +0900
+
+    написать HEllo world! в 1.txt
+
+commit 80f6183ac66d3ddea71cd2c6c9784edbb36b61a8
+Author: Dj0wics <arseniimalinin@gmail.com>
+Date:   Mon Feb 13 08:52:27 2023 +0900
+
+    создать test1.txt
